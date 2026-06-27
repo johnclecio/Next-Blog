@@ -5,7 +5,7 @@ import { notFound } from "next/navigation";
 import {
   getArtigos,
   getArtigoBySlug,
-} from "../../lib/artigos"//"@/lib/artigos";
+} from "@/app/lib/artigos";
 
 import styles from "./Slug.module.css";
 
