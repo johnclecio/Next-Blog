@@ -60,7 +60,7 @@ src
 Abra o terminal e execute:
 
 ```bash
-npx create-next-app@latest blog-artigos
+npx create-next-app@latest sport-blog
 ```
 
 Durante a instalação escolha:
@@ -84,7 +84,7 @@ Import Alias → Yes (@/*)
 ## 2 - Entrando no projeto
 
 ```bash
-cd blog-artigos
+cd sport-blog
 ```
 
 ---
@@ -375,7 +375,7 @@ git clone URL_DO_REPOSITORIO
 Entre na pasta:
 
 ```bash
-cd blog-artigos
+cd sport-blog
 ```
 
 Instale as dependências:
@@ -419,7 +419,7 @@ git add .
 Criar o commit:
 
 ```bash
-git commit -m "feat: projeto blog de artigos com Next.js 15"
+git commit -m "feat: projeto sport-blog com Next.js 15"
 ```
 
 Adicionar o repositório remoto:
