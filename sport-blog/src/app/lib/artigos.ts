@@ -1,6 +1,6 @@
-import artigosJson from "../components/data/artigos.json";
+import artigosJson from "@/app/components/data/artigos.json";
 import slugify from "slugify";
-import type { Artigo } from "../types/artigo";
+import type { Artigo } from "@/app/types/artigo";
 
 const artigos: Artigo[] = artigosJson.map((artigo) => ({
   ...artigo,

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import styles from "./App.module.css";
 
-import { getArtigos } from "../app/lib/artigos"//"@/lib/artigos";
+import { getArtigos } from "@/app/lib/artigos"//"@/lib/artigos";
 
 export const revalidate = 3600;
 
