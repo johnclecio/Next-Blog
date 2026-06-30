@@ -9,7 +9,7 @@ A aplicação consiste em um blog onde os artigos são listados na página inici
 Além disso, o projeto utiliza boas práticas de SEO, geração automática de slugs e renderização estática (SSG).
 
 ---
-
+# Link Deploy https://next-blog-beige-rho.vercel.app/
 # 🚀 Tecnologias utilizadas
 
 - Next.js 15
